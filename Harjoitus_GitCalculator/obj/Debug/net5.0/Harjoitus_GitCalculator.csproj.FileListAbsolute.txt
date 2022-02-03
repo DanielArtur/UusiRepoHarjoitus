@@ -1,0 +1,16 @@
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\Harjoitus_GitCalculator.exe
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\Harjoitus_GitCalculator.deps.json
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\Harjoitus_GitCalculator.runtimeconfig.json
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\Harjoitus_GitCalculator.runtimeconfig.dev.json
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\Harjoitus_GitCalculator.dll
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\ref\Harjoitus_GitCalculator.dll
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\bin\Debug\net5.0\Harjoitus_GitCalculator.pdb
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.csproj.AssemblyReference.cache
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.AssemblyInfoInputs.cache
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.AssemblyInfo.cs
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.csproj.CoreCompileInputs.cache
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.dll
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\ref\Harjoitus_GitCalculator.dll
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.pdb
+C:\Users\s2001075\Desktop\Jotain\Harjoitus_GitCalculator\obj\Debug\net5.0\Harjoitus_GitCalculator.genruntimeconfig.cache
